@@ -9,8 +9,7 @@ const Home: React.FC = () => (
       <title>Homepage</title>
     </Head>
 
-    <h1>ReactJS Structure</h1>
-    <p>A ReactJS + Next.js structure made by Rocketseat.</p>
+    <h1>Initial Structure</h1>
   </Container>
 );
 
